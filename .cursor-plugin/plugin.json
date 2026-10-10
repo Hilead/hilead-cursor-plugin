@@ -1,0 +1,30 @@
+{
+  "name": "hilead",
+  "displayName": "Hilead",
+  "version": "1.0.0",
+  "description": "Connect your assistant to your Hilead outreach workspace (email + LinkedIn). Analyze campaigns, reports and replies, search your lead pool or discover fresh leads, review audiences, and prepare draft campaigns. It never launches a campaign, never sends a message and never spends credits: every draft waits for your review in the Hilead app.",
+  "author": {
+    "name": "Hilead"
+  },
+  "homepage": "https://hilead.co",
+  "repository": "https://github.com/Hilead/hilead-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "sales",
+    "outreach",
+    "prospecting",
+    "lead-generation",
+    "leads",
+    "linkedin",
+    "email",
+    "campaigns",
+    "crm"
+  ],
+  "skills": "./skills/",
+  "mcpServers": {
+    "hilead": {
+      "url": "https://api.app.hilead.co/mcp"
+    }
+  }
+}
