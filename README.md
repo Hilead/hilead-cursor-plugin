@@ -22,7 +22,7 @@ Write actions are only available if you grant the `read_write` scope on the cons
 2. The first time the assistant uses it, a browser tab opens Hilead's consent screen. Sign in with your Hilead account, pick the workspaces to share and allow.
 3. Ask away: "Which of my campaigns got the most replies this month?", "Find founders of B2B SaaS companies in California that are hiring", "Draft a 3-step sequence for the people in my Q4 audience".
 
-Requirements: a Hilead account on a paid plan. The connection can be revoked at any time from **Settings → Integrations** in the Hilead app.
+Requirements: a Hilead account. The Free plan works too, within its limits. The connection can be revoked at any time from **Settings → Integrations** in the Hilead app.
 
 ## Workspaces
 
